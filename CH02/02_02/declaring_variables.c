@@ -2,6 +2,7 @@
 
 int main()
 {
+	//declaring varaible at initialization
 	char a = 'X';
 	int count = 25;
 	double longitude = 47.677878;
