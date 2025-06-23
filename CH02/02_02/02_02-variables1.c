@@ -2,6 +2,8 @@
 
 int main()
 {
+	//define the variables
+	//variables in c must be defined before use
 	char c;
 	int i;
 	float f;
