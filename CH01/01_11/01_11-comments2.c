@@ -14,6 +14,7 @@ int main()
 	puts("I can generate text all day long.");
 
 /* write code here to output a happy face */
+	puts(":)");
 
 	return(0);
 }
